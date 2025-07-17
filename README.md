@@ -50,7 +50,7 @@ PenBlogs combines a dynamic React front-end with Appwrite’s powerful backend, 
    - Ensures `react-quill`, `redux-toolkit`, `react-hook-form`, and other packages are installed.
 4. **Set Up Appwrite**:
    - Install Appwrite locally or use Appwrite Cloud (see Appwrite Docs).
-   - Configure environment variables (e.g., `APPWRITE_ENDPOINT`, `APPWRITE_PROJECT_ID`) in a `.env` file.
+   - Configure environment variables (e.g., `APPWRITE_ENDPOINT`, `APPWRITE_PROJECT_ID`, `VITE_DATABASE_ID`, `VITE_COLLECTION_ID`, `VITE_STORAGE_ID`) in a `.env` file.
    - Initialize Appwrite SDK in your project.
 5. **Start the Development Server**:
 
